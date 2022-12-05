@@ -1,6 +1,7 @@
 {
   "als_notify":{
     "version":1.0,
+    "isPrenium":true,
     "comment":""
   }
 }
