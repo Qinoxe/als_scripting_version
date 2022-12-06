@@ -3,5 +3,10 @@
     "version":1.0,
     "isPrenium":true,
     "comment":""
+  },
+  "als_carshop":{
+    "version":1.0,
+    "isPrenium":true,
+    "comment":""
   }
 }
