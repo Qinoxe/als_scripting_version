@@ -8,5 +8,10 @@
     "version":1.0,
     "isPrenium":true,
     "comment":""
+  },
+    "als_core":{
+    "version":1.0,
+    "isPrenium":true,
+    "comment":""
   }
 }
